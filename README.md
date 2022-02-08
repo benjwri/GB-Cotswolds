@@ -1,7 +1,5 @@
-# Railway Operation Simulator Template Map 
-A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
-
-**NOTE: Asynchronous route building is NOT supported, `.rly` files are not designed such that two versions can be combined by git. For route development contribution you must instead alternate between contributor making sure to pull the latest version before adding to it yourself.**
+# Cotswolds Line
+Representation of the modern day Cotswold Line from Oxford to Worcester
 
 |[Edit this README and Remove the following information tables] This repository should contain ultimately:|
 |:-------|
