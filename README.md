@@ -9,7 +9,7 @@ Representation of the modern day Cotswold Line from Oxford to Worcester
 | ------------- |:-------------:|
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
-| Naming | :x:      |
+| Naming | :heavy_check_mark:      |
 | Speed Limits | :heavy_check_mark: |
 | Distances | :x: |
 | Timetable | :x: |
